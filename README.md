@@ -1,11 +1,8 @@
-
 <div align="center">
-
 <div align="center">
   <img src="images/logo.png" alt="Lechapes Logo" width="120">
 </div>
-
-# JHotel
+# JHotel Desktop
 
 ### Modern Hotel Management Application
 
@@ -20,11 +17,11 @@
 
 ---
 
+Designed with simplicity and usability in mind, JHotel helps hotel staff keep essential information organized while providing a clear overview of daily hotel activities.
+
 ## Overview
 
 **JHotel** is a desktop hotel management application developed in Rust. It provides a centralized interface for managing rooms, guests, reservations, and occupancy information.
-
-Designed with simplicity and usability in mind, JHotel helps hotel staff keep essential information organized while providing a clear overview of daily hotel activities.
 
 The application combines a modern graphical interface with local data persistence to deliver a practical hotel management experience.
 
@@ -150,7 +147,7 @@ Before working with the source code, make sure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/JHotel.git
+git clone https://github.com/Johanes-mg/JHotelDesktop.git
 cd JHotel
 ```
 
@@ -217,10 +214,10 @@ If you would like to contribute:
 
 Please keep the code organized and follow the existing project structure.
 
-## 👤 Auteur
+## Auteur
  * **Johanes-mg** 
 
-## 📄 License
+## License
 
 A license has not yet been specified for this project.
 
@@ -230,7 +227,7 @@ Please contact the project owner for information about usage, modification, and 
 
 <div align="center">
 
-**JHotel — Making Hotel Management Simpler.**
+**JHotel Making Hotel Management Simpler.**
 
 *Built with Rust. Designed for Efficiency.*
 
