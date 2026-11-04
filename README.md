@@ -2,6 +2,7 @@
 <div align="center">
   <img src="images/logo.png" alt="Lechapes Logo" width="120">
 </div>
+
 # JHotel Desktop
 
 ### Modern Hotel Management Application
@@ -229,6 +230,6 @@ Please contact the project owner for information about usage, modification, and 
 
 **JHotel Making Hotel Management Simpler.**
 
-*Built with Rust. Designed for Efficiency.*
+*Built in Pure Rust. Designed for Efficiency.*
 
 </div>
