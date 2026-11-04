@@ -1,7 +1,11 @@
 
 <div align="center">
 
-# 🏨 JHotel
+<div align="center">
+  <img src="images/logo.png" alt="Lechapes Logo" width="120">
+</div>
+
+# JHotel
 
 ### Modern Hotel Management Application
 
@@ -16,7 +20,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **JHotel** is a desktop hotel management application developed in Rust. It provides a centralized interface for managing rooms, guests, reservations, and occupancy information.
 
@@ -24,46 +28,46 @@ Designed with simplicity and usability in mind, JHotel helps hotel staff keep es
 
 The application combines a modern graphical interface with local data persistence to deliver a practical hotel management experience.
 
-## ✨ Features
+## Features
 
-### 🏠 Dashboard
+### Dashboard
 - Overview of important hotel information.
 - Quick access to the application's main sections.
 - Date and time display.
 - Daily activity indicators.
 
-### 🛏️ Room Management
+### Room Management
 - Manage hotel rooms.
 - View room information and availability.
 - Identify available, occupied, and reserved rooms.
 - Organize rooms according to their information and status.
 
-### 👥 Guest Management
+### Guest Management
 - Register and manage guest information.
 - View guest details.
 - Keep guest records organized.
 - Access guest information when managing reservations and stays.
 
-### 📅 Reservation & Occupancy Management
+### Reservation & Occupancy Management
 - Manage hotel reservations.
 - Record check-in information and length of stay.
 - Track room occupancy.
 - Distinguish between available, reserved, and occupied rooms.
 - Monitor ongoing and completed stays.
 
-### 🔎 Search
+### Search
 - Search through hotel information.
 - Quickly retrieve relevant records.
 - Access information through a dedicated search interface.
 
-### ⚙️ Settings & Personalization
+### Settings & Personalization
 - Switch between light and dark themes.
 - Change the application language.
 - Customize the application identity.
 - Select a custom logo.
 - Save application preferences.
 
-## 🖥️ Interface
+## Interface
 
 JHotel is designed around a clean and structured desktop interface.
 
@@ -74,7 +78,7 @@ The application focuses on:
 - Organized management screens.
 - A customizable appearance.
 
-## 🛠️ Technology Stack
+##️ Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -86,7 +90,7 @@ The application focuses on:
 | **Chrono** | Date and time handling |
 | **Image** | Image loading and processing |
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 JHotel/
@@ -170,7 +174,7 @@ cargo run
 cargo build --release
 ```
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 JHotel follows a simple design philosophy:
 
@@ -180,7 +184,7 @@ JHotel follows a simple design philosophy:
 - **Flexibility:** Users should be able to personalize their workspace.
 - **Maintainability:** The codebase is separated into dedicated modules.
 
-## 🔒 Data & Persistence
+## Data & Persistence
 
 JHotel includes a dedicated persistence layer to manage application data.
 
@@ -188,7 +192,7 @@ The project uses Rust serialization tools and database-related components to sup
 
 Users should maintain regular backups of their hotel information to reduce the risk of accidental data loss.
 
-## 🗺️ Roadmap
+## Roadmap
 
 Potential areas for future improvements include:
 
@@ -199,7 +203,7 @@ Potential areas for future improvements include:
 - [ ] Expanded application customization.
 - [ ] Further interface and performance improvements.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and bug reports are welcome.
 
@@ -212,6 +216,9 @@ If you would like to contribute:
 5. Submit a pull request.
 
 Please keep the code organized and follow the existing project structure.
+
+## 👤 Auteur
+ * **Johanes-mg** 
 
 ## 📄 License
 
